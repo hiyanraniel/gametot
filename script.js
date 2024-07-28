@@ -32,7 +32,13 @@ const quiz = [
 		question: "Which of the following is a type of network?",
 		choices: ["Internet", "Intranet", "Extranet", "All of the above"],
 		answer: 3
+	},
+	{
+	  question: "kinsa si ranie?",
+	  choices: ["ambot kinsa", "raniel bigdick", "otenan siya"],
+	  answer: 2
 	}
+	
 ];
 
 function showQuestion() {
